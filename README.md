@@ -16,8 +16,10 @@ Offer expertise and thus support for people who want to learn programming. This 
 
 There are a variety of goals:
 
-I.   I recently took the exit package from Intel
-II.  Be a resource in an area without any offerings
-III. Have fun!
+i.   I recently took the exit package from Intel
+
+ii.  Be a resource in an area without any offerings
+
+iii. Have fun!
 
 See rev 0.1 of the flier at: https://github.com/czrpb/ncca/blob/main/ncca.pdf
