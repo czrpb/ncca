@@ -22,4 +22,4 @@ ii.  Be a resource in an area without any offerings
 
 iii. Have fun!
 
-See rev 0.1 of the flier at: https://github.com/czrpb/ncca/blob/main/ncca.pdf
+See rev 0.6 of the flier at: https://github.com/czrpb/ncca/blob/main/ncca.pdf
