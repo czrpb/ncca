@@ -57,6 +57,7 @@ https://www.python.org/doc/
 
 #### Tutorials
 
+* https://www.geeksforgeeks.org/getting-started-with-python-programming/
 * https://docs.python.org/3/tutorial/index.html
 * https://exercism.org/tracks/python
 * https://www.pygame.org/docs/tut/PygameIntro.html
@@ -64,17 +65,19 @@ https://www.python.org/doc/
 
 ### Javascript
 
+#### Tutorials
+
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript
+* https://www.geeksforgeeks.org/javascript/
 * https://www.w3schools.com/js/default.asp
 * https://www.w3schools.com/nodejs/default.asp
-
-#### Tutorials
 
 ### Java
 
 #### Tutorials
 
 * https://www.w3schools.com/java/default.asp
+* https://www.geeksforgeeks.org/java/
 
 ### Database / SQL
 
@@ -89,3 +92,6 @@ https://www.python.org/doc/
 * https://www.w3schools.com/datascience/default.asp
 * https://www.w3schools.com/ai/default.asp
 * https://www.w3schools.com/gen_ai/index.php
+
+* https://www.geeksforgeeks.org/data-science-for-beginners/?ref=shm
+* https://www.geeksforgeeks.org/machine-learning/
